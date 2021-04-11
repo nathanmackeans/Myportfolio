@@ -1,0 +1,181 @@
+{
+  "basic_info": {
+    "description_header": "Hi!",
+    "description": "👋 I'm Azah Nathaniel Chiedu. I’m a Electrical Technologist/Software developer. I currently work as a freelancer where i develop Web apps using the MERN stack.",
+    "philosophy": "I’m a young and motivated individual who is reliable and confident with proven skills and experience. I enjoy problem solving and am quick to learn with good communication skills and the ability to work efficiently either individually or as part of a team in a professional environment. I’m committed to working in the IT industry, a skill and subject I am deeply passionate in.",
+    "preference": "I’m looking for a Developer role, preferably abroad, although I am open to work anywhere for the right opportunity.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "education": "Education",
+      "expertise": "Expertise",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Amazon Clone",
+      "startDate": "2021",
+      "description": "A clone of the Amazon.com website with full ecommerce functionality such as Carts and payment Processing using Stripe",
+      "images": [
+        "images/portfolio/Amazon-clone/amazon1.png",
+        "images/portfolio/Amazon-clone/amazon2.png",
+        "images/portfolio/Amazon-clone/amazon3.png"
+      ],
+      "url": "https://https://clone-e22e0.web.app/login",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React Js"
+        },
+        {
+          "class": "devicon-firebase-plain",
+          "name": "Firebase"
+        },
+        {
+          "class": "devicon-stripe-plain",
+          "name": "Stripe"
+        }
+      ]
+    },
+    {
+      "title": "Tinder Clone",
+      "startDate": "2020",
+      "description": "A clone of the popular dating site Tinder.",
+      "images": [
+        "images/portfolio/Tinder-clone/Pic1tinder.png",
+        "images/portfolio/Tinder-clone/pic2tinder.png"
+      ],
+      "url": "https://vigorous-torvalds-0af559.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-materialui-original",
+          "name": "MaterialUi"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
+      "title": "Ashiweather",
+      "startDate": "2019",
+      "description": "I wanted to develop a local weather application",
+      "images": ["images/portfolio/Ashiweather/ashiweather.png"],
+      "url": "https://ashiweather.netlify.app",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "company": "Ambrose Alli University, Ekpoma",
+      "title": "B.Eng",
+      "description": "I dropped out during my 2nd Year",
+      "years": "2020 - 2022",
+      "mainTech": ["Electrical Electronics Engineering"]
+    },
+    {
+      "company": "Delta State Polytechnic, Oghara",
+      "title": "Hnd",
+      "description": "Higher National Diploma in Engineering, graduating this year 2021",
+      "years": "2019 - 2021",
+      "mainTech": ["Electrical/Electronics Engineering"]
+    },
+    {
+      "company": "Delta State Polytechnic, Oghara",
+      "title": "OND",
+      "description": "My entry into the world of Engineering. I did a 1-year, 4 month intership training in a few companies after the two year program",
+      "years": "2016 - 2018",
+      "mainTech": ["Electrical/Electronics Engineering"]
+    },
+    {
+      "company": "FreeCodeCamp.org",
+      "title": "Web Development Training",
+      "description": "",
+      "years": "2010 - 2015",
+      "mainTech": ["Computing | Web Development"]
+    }
+  ],
+  "expertise": {
+    "icons": [
+      {
+        "title": "Full-Stack Web Development",
+        "description": "I have skills and experience to develop full-stack web applications and services in a variety of technologies. My knowledge area for full-stack apps include HTML/CSS/JS, NodeJS (+ Express), and React (+ Redux). I'm able to create and maintain APIs, and web servers."
+      },
+      {
+        "title": "Database Systems",
+        "description": "I have a detailed level of understanding relational database management systems. I have experience with normalisation and a wide range of SQL languages, most notably MySQL/MariaDB, and NoSQL such as MongoDB. I also have the know-how to implement and use databases in software applications and RESTful APIs."
+      },
+      {
+        "title": "E-Commerce",
+        "description": "I have knowledge in business and have experience with developing an e-commerce site. The Business and Web module I undertook involved responsive web design through CSS frameworks, CMS such as Wordpress, and marketing include social media, email, and blogging."
+      },
+      {
+        "title": "Project Management",
+        "description": "Through project management modules in education and working in an agile environment, I have experience with working with project planning. I'm able to work in Agile methodologies such as SCRUM with the inclusion of DevOps, Continuous Testing/Delivery, and Kanban Boards."
+      },
+      {
+        "title": "Networking",
+        "description": "From routing and switching to wide area networks, I understand networking theory and the application of networks. I also have working experince in Edo State Board of Internal Revenue ICT department as a Network Administratior"
+      },
+      {
+        "title": "Electrical and Computer Repairs/Troubshooting",
+        "description": "I have experience fixing hardware problems, And fault diagnosis in computers and engineering equipments"
+      },
+      {
+        "title": "Electrical Installation",
+        "description": "I have experience building Pcs, Electrical equipment installation and configuration"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "EDO STATE BOARD OF INTERNAL REVENUE, BENIN CITY",
+      "title": "Graduate Software Engineer",
+      "description": "I Worked in the Revenue board, ICT department and performed the following duties:",
+      "responsibilities": [
+        "ERAS (Edo Revenue Administration Service Software) admin",
+        "Pc installation",
+        "Networking",
+        "Pc repairs and maintenance",
+        "Customer support",
+        "ICT support"
+      ],
+      "year": "2020",
+      "technologies": [""],
+      "mainTech": [""]
+    },
+    {
+      "company": "DELTA STATE UNIVERSITY TEACHING HOSPITAL, OGHARA",
+      "title": "Engineering Intern",
+      "description": "In a fast-paced and dynamic environment, I worked among a team of Enginners to deliver electricity and ensure its availability to all users.",
+      "responsibilities": [],
+      "year": "2016 - 2017",
+      "mainTech": [""],
+      "technologies": [""]
+    }
+  ]
+}
