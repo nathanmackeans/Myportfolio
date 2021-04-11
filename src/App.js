@@ -11,7 +11,6 @@ import Education from "./components/Education";
 import Expertise from "./components/Expertise";
 
 class App extends Component {
-
   constructor(props) {
     super();
     this.state = {
@@ -26,7 +25,7 @@ class App extends Component {
     var resumePath =
       document.documentElement.lang === window.$primaryLanguage
         ? `res_primaryLanguage.json`
-        : `res_secondaryLanguage.json`;
+        : `res_primaryLanguage.json`;
     this.loadResumeFromPath(resumePath);
   }
 
@@ -71,9 +70,7 @@ class App extends Component {
     return (
       <div>
         <Header sharedData={this.state.sharedData.basic_info} />
-        <div className="col-md-12 mx-auto text-center language">
-          
-        </div>
+        <div className="col-md-12 mx-auto text-center language"></div>
         <About
           resumeBasicInfo={this.state.resumeData.basic_info}
           sharedBasicInfo={this.state.sharedData.basic_info}
@@ -90,11 +87,11 @@ class App extends Component {
           resumeExperience={this.state.resumeData.experience}
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
-        <Expertise 
+        <Expertise
           resumeExpertise={this.state.resumeData.expertise}
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
-        <Education 
+        <Education
           resumeEducation={this.state.resumeData.education}
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
