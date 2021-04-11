@@ -4,9 +4,9 @@
     "titles": [
       "Full-stack Developer",
       "Web Designer",
-      "Electrical/Electronics Engineer",
+      "Electrical/Electronics Technologist",
       "Freelancer",
-      "LovableGuy"
+      "Lovable Guy"
     ],
     "social": [
       {
@@ -25,7 +25,7 @@
         "class": "fa fa-envelope"
       }
     ],
-    "image": "myProfile.png"
+    "image": "/myProfile.png"
   },
   "skills": {
     "icons": [

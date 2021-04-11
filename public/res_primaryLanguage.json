@@ -19,9 +19,9 @@
       "startDate": "2021",
       "description": "A clone of the Amazon.com website with full ecommerce functionality such as Carts and payment Processing using Stripe",
       "images": [
-        "images/portfolio/Amazon-clone/amazon1.png",
-        "images/portfolio/Amazon-clone/amazon2.png",
-        "images/portfolio/Amazon-clone/amazon3.png"
+        "/images/portfolio/Amazon-clone/amazon1.png",
+        "/images/portfolio/Amazon-clone/amazon2.png",
+        "/images/portfolio/Amazon-clone/amazon3.png"
       ],
       "url": "https://https://clone-e22e0.web.app/login",
       "technologies": [
@@ -44,8 +44,8 @@
       "startDate": "2020",
       "description": "A clone of the popular dating site Tinder.",
       "images": [
-        "images/portfolio/Tinder-clone/Pic1tinder.png",
-        "images/portfolio/Tinder-clone/pic2tinder.png"
+        "/images/portfolio/Tinder-clone/Pic1tinder.png",
+        "/images/portfolio/Tinder-clone/pic2tinder.png"
       ],
       "url": "https://vigorous-torvalds-0af559.netlify.app/",
       "technologies": [
@@ -67,7 +67,7 @@
       "title": "Ashiweather",
       "startDate": "2019",
       "description": "I wanted to develop a local weather application",
-      "images": ["images/portfolio/Ashiweather/ashiweather.png"],
+      "images": ["/images/portfolio/Ashiweather/ashiweather.png"],
       "url": "https://ashiweather.netlify.app",
       "technologies": [
         {
@@ -127,7 +127,7 @@
     "icons": [
       {
         "title": "Full-Stack Web Development",
-        "description": "I have skills and experience to develop full-stack web applications and services in a variety of technologies. My knowledge area for full-stack apps include HTML/CSS/JS, NodeJS (+ Express), and React (+ Redux). I'm able to create and maintain APIs, and web servers."
+        "description": "I have the skills and experience to develop full-stack web applications and services in a variety of technologies. My knowledge area for full-stack apps include HTML/CSS/JS, NodeJS (+ Express), and React (+ Redux). I'm able to create and maintain APIs, and web servers."
       },
       {
         "title": "Database Systems",
