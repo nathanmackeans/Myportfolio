@@ -121,6 +121,14 @@
       "years": "2010 - 2015",
       "mainTech": ["Computing | Web Development"],
       "technologies": [""]
+    },
+    {
+      "company": "Uopeople.org",
+      "title": "Computer Science",
+      "description": "",
+      "years": "2020 - 2024",
+      "mainTech": ["Computing | Data Structures, Programming"],
+      "technologies": [""]
     }
   ],
   "expertise": {
